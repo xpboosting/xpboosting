@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - [Steam](https://steamcommunity.com/id/xpboosting)
-- [Website](https://drainer.cloud/)
+- [Website](https://elegy.wtf/x)
 - [YouTube](https://www.youtube.com/watch?v=PYY8D6n9N1I)
 
 
