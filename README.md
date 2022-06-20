@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=xpboosting&color=blue)
+![](https://komarev.com/ghpvc/?username=xpboosting&color=blueviolet)
 
 - [Steam](https://steamcommunity.com/id/xpboosting)
 - [Website](https://elegy.wtf/x)
