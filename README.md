@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=xpboosting&color=blueviolet)
 
-- [Website](https://elegy.wtf/x)
+- [Website](https://syx.wtf)
 - [YouTube](https://www.youtube.com/watch?v=PYY8D6n9N1I)
 
 
