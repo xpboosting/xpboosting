@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=xpboosting&color=blueviolet)
@@ -5,7 +6,7 @@
 - [Website](https://syx.wtf)
 - [YouTube](https://www.youtube.com/watch?v=PYY8D6n9N1I)
 
-
+  <div align=center>
 ![lumiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpboosting&show_icons=true&theme=transparent)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyReisz&layout=compact&theme=transparent"/>
   <div align=center>
