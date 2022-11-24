@@ -26,8 +26,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=xpboosting&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpboosting&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xpboosting&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpboosting&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" width="420"/>
 
 </a>
 
