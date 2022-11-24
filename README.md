@@ -24,6 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpboosting&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" width="420" alt="">
 
 </a>
+
 </div>
 
 <br>
@@ -31,8 +32,10 @@
 <br>
 
 -----
-
-<br>
-<br>
+## <img src="https://i.imgur.com/1W0WgPu.gif" width="35"><b> Discord </b>
+<div align="center">
+<img src="https://lanyard.cnrad.dev/api/886239464756768808">
 
 <div align='center'>
+
+
