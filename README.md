@@ -4,9 +4,9 @@
 <br>
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=xpboosting&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="417"/>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=xpboosting&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
-   <img src="https://github-readme-stats.vercel.app/api?username=xpboosting&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpboosting&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" width="352"/>
 
   </a>
 
